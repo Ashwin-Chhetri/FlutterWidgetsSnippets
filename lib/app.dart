@@ -42,7 +42,7 @@ class MyHomePage extends StatelessWidget {
     AnimatedPositionWidget(),
     AnimatedRotationWidget(),
     AnimatedSizeWidget(),
-    AnimatedSwitcherWdiget(),
+    AnimatedSwitcherWidget(),
     AppBarWidget(),
     AspectRatioWidget(),
     AutoCompleteWidget(),

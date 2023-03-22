@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class AnimatedSwitcherWdiget extends StatefulWidget {
-  const AnimatedSwitcherWdiget({super.key});
+class AnimatedSwitcherWidget extends StatefulWidget {
+  const AnimatedSwitcherWidget({super.key});
 
   @override
-  State<AnimatedSwitcherWdiget> createState() => _AnimatedSwitcherWdigetState();
+  State<AnimatedSwitcherWidget> createState() => _AnimatedSwitcherWidgetState();
 }
 
-class _AnimatedSwitcherWdigetState extends State<AnimatedSwitcherWdiget> {
+class _AnimatedSwitcherWidgetState extends State<AnimatedSwitcherWidget> {
   int _count = 0;
   @override
   Widget build(BuildContext context) {

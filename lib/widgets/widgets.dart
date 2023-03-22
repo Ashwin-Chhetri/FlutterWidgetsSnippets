@@ -10,7 +10,7 @@ export 'animatedalign.dart';
 export 'animatedbuilder.dart';
 export 'animatedcontainer.dart';
 export 'animatedcrossfade.dart';
-export 'animtedicon.dart';
+export 'animatedicon.dart';
 export 'animatedlist.dart';
 export 'animatedmodalbarrier.dart';
 export 'animatedopacity.dart';
