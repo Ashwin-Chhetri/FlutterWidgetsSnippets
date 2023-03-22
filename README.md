@@ -4,9 +4,7 @@ A Flutter project demondstrating flutter widgets.
 
 ### Some Screenshots
 <p float="left">
-  <img src="docs/images/widgetsample.gif" height="300em" />
-  
-
+  <img src="docs/images/widgetsample.gif" height="300em"/>
 </p>
 
 
@@ -97,7 +95,7 @@ I welcome and encourage all pull requests. Here are some basic rules to follow t
 1.  Match the document style as closely as possible.
 2.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge.
 3.  Pull requests _must_ be made against `main` branch for this particular repository.
-4.  Check for existing [issues](https://github.com/iampawan/FlutterExampleApps/issues) first, before filing an issue.
+4.  Check for existing [issues](https://github.com/Ashwin-Chhetri/FlutterWidgetsSnippets/issues) first, before filing an issue.
 5.  Make sure you follow the set standard as all other projects in this repo do
 
 
